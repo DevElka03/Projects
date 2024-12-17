@@ -28,7 +28,6 @@ a {
 
 a:hover {
     color: #bd7c4a; 
-    transform: translateY(-2px);
 }
 
 .btn {
@@ -365,7 +364,7 @@ footer {
     padding: 12px;
     margin-top: 20px;
     background: #bd7c4a;
-    color: #fff;
+    color: white;
     border: none;
     border-radius: 8px;
     cursor: pointer;
@@ -375,6 +374,7 @@ footer {
 
 .contact-form button[type="submit"]:hover {
     background: #37262c;
+    color: white;
     transform: translateY(-2px);
 }
 
