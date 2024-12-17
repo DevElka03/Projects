@@ -111,7 +111,7 @@ header nav ul li a:hover {
 
 /* Hero Section Styles */
 .hero {
-    background: url('/Project/Images/hero.jpg') no-repeat center center/cover;
+    background: url('Images/hero.jpg') no-repeat center center/cover;
     min-height: 500px;
     color: #fff;
     display: flex;
