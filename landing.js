@@ -24,7 +24,7 @@ if (contactForm) {
         // Here, you would typically send the data to a server-side script using AJAX (e.g., with Fetch API or XMLHttpRequest).
         // For demonstration, we'll just log the data to the console:
         console.log('Form Data:', { name, email, message });
-        alert('Form submitted! (This is a placeholder. You need a server-side script to handle form data.)');
+        alert('Form submitted!');
 
         // You might also want to clear the form after submission:
         // contactForm.reset();
